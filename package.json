@@ -1,0 +1,16 @@
+{
+  "name": "com.specter.melody",
+  "version": "1.0.0",
+  "displayName": "Melody",
+  "description": "Unity audio library",
+  "unity": "2021.3",
+  "unityRelease": "11f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "author": {
+    "name": "Ken Ken",
+    "email": "kenlimzx1@gmail.com",
+    "url": "https://github.com/kenlimzx1"
+  }
+}
